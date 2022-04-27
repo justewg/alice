@@ -1,4 +1,4 @@
-module github.com/azzzak/alice
+module github.com/justewg/alice
 
 go 1.12
 
